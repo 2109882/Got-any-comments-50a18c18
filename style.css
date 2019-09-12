@@ -1,0 +1,20 @@
+input	{
+	width: 300px;
+	border-radius: 5px;
+}
+	.voetbal	{
+	width: 15px;
+}
+	.dagen	{
+	width: 15px;
+}
+label,
+	
+	textarea {
+    border-width: 5px;
+    border-color: red;
+}
+	textarea:focus {
+    border-color: green;
+    outline: none; 
+}
